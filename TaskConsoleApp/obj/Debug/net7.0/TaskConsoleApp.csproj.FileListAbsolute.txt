@@ -1,0 +1,15 @@
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskConsoleApp\bin\Debug\net7.0\TaskConsoleApp.exe
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskConsoleApp\bin\Debug\net7.0\TaskConsoleApp.deps.json
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskConsoleApp\bin\Debug\net7.0\TaskConsoleApp.runtimeconfig.json
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskConsoleApp\bin\Debug\net7.0\TaskConsoleApp.dll
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskConsoleApp\bin\Debug\net7.0\TaskConsoleApp.pdb
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskConsoleApp\obj\Debug\net7.0\TaskConsoleApp.csproj.AssemblyReference.cache
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskConsoleApp\obj\Debug\net7.0\TaskConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskConsoleApp\obj\Debug\net7.0\TaskConsoleApp.AssemblyInfoInputs.cache
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskConsoleApp\obj\Debug\net7.0\TaskConsoleApp.AssemblyInfo.cs
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskConsoleApp\obj\Debug\net7.0\TaskConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskConsoleApp\obj\Debug\net7.0\TaskConsoleApp.dll
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskConsoleApp\obj\Debug\net7.0\refint\TaskConsoleApp.dll
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskConsoleApp\obj\Debug\net7.0\TaskConsoleApp.pdb
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskConsoleApp\obj\Debug\net7.0\TaskConsoleApp.genruntimeconfig.cache
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskConsoleApp\obj\Debug\net7.0\ref\TaskConsoleApp.dll
