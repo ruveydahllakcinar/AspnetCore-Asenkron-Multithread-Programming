@@ -1,0 +1,11 @@
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskCancellationApp\obj\Debug\TaskCancellationApp.csproj.AssemblyReference.cache
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskCancellationApp\obj\Debug\TaskCancellationApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskCancellationApp\obj\Debug\TaskCancellationApp.Form1.resources
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskCancellationApp\obj\Debug\TaskCancellationApp.Properties.Resources.resources
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskCancellationApp\obj\Debug\TaskCancellationApp.csproj.GenerateResource.cache
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskCancellationApp\obj\Debug\TaskCancellationApp.csproj.CoreCompileInputs.cache
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskCancellationApp\bin\Debug\TaskCancellationApp.exe.config
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskCancellationApp\bin\Debug\TaskCancellationApp.exe
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskCancellationApp\bin\Debug\TaskCancellationApp.pdb
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskCancellationApp\obj\Debug\TaskCancellationApp.exe
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskCancellationApp\obj\Debug\TaskCancellationApp.pdb

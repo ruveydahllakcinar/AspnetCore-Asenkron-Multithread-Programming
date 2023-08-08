@@ -5,13 +5,17 @@ VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskFormApp", "TaskFormApp\TaskFormApp.csproj", "{C392B381-E344-4AA1-8567-856D8D8297FA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskWebApp.API", "TaskWebApp.API\TaskWebApp.API.csproj", "{14DC6298-B853-4388-A0EA-F5292CAD054A}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskConsoleApp", "..\TaskConsoleApp\TaskConsoleApp.csproj", "{97F9A16B-786A-4DFF-8C22-31FCEFDD9604}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskThreadApp", "..\TaskThreadApp\TaskThreadApp.csproj", "{C4F70BDD-C8F3-485A-9598-2B315F7246ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskStartNewMethod", "..\TaskStartNewMethod\TaskStartNewMethod.csproj", "{9F7543C4-8564-4E86-8E38-5F7AF10E3C82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskStartNewMethod", "..\TaskStartNewMethod\TaskStartNewMethod.csproj", "{9F7543C4-8564-4E86-8E38-5F7AF10E3C82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskCancellationApp", "..\TaskCancellationApp\TaskCancellationApp.csproj", "{87C9A765-6FE7-4A9C-B53F-E44C58C812B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskWebApp.API", "..\TaskWebApp.API\TaskWebApp.API.csproj", "{8328F23F-A204-4260-9CA4-CE9591D46811}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskInstanceConsoleApp", "..\TaskInstanceConsoleApp\TaskInstanceConsoleApp.csproj", "{C239FE4E-5D7C-4D78-B21D-15AE4C5F085C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +27,6 @@ Global
 		{C392B381-E344-4AA1-8567-856D8D8297FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C392B381-E344-4AA1-8567-856D8D8297FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C392B381-E344-4AA1-8567-856D8D8297FA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{14DC6298-B853-4388-A0EA-F5292CAD054A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{14DC6298-B853-4388-A0EA-F5292CAD054A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{14DC6298-B853-4388-A0EA-F5292CAD054A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{14DC6298-B853-4388-A0EA-F5292CAD054A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{97F9A16B-786A-4DFF-8C22-31FCEFDD9604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{97F9A16B-786A-4DFF-8C22-31FCEFDD9604}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97F9A16B-786A-4DFF-8C22-31FCEFDD9604}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -39,6 +39,18 @@ Global
 		{9F7543C4-8564-4E86-8E38-5F7AF10E3C82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F7543C4-8564-4E86-8E38-5F7AF10E3C82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F7543C4-8564-4E86-8E38-5F7AF10E3C82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87C9A765-6FE7-4A9C-B53F-E44C58C812B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87C9A765-6FE7-4A9C-B53F-E44C58C812B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87C9A765-6FE7-4A9C-B53F-E44C58C812B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87C9A765-6FE7-4A9C-B53F-E44C58C812B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8328F23F-A204-4260-9CA4-CE9591D46811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8328F23F-A204-4260-9CA4-CE9591D46811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8328F23F-A204-4260-9CA4-CE9591D46811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8328F23F-A204-4260-9CA4-CE9591D46811}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C239FE4E-5D7C-4D78-B21D-15AE4C5F085C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C239FE4E-5D7C-4D78-B21D-15AE4C5F085C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C239FE4E-5D7C-4D78-B21D-15AE4C5F085C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C239FE4E-5D7C-4D78-B21D-15AE4C5F085C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

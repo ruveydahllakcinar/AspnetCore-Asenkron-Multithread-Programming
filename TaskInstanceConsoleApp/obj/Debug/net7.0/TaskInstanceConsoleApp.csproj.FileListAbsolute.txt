@@ -1,0 +1,15 @@
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskInstanceConsoleApp\bin\Debug\net7.0\TaskInstanceConsoleApp.exe
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskInstanceConsoleApp\bin\Debug\net7.0\TaskInstanceConsoleApp.deps.json
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskInstanceConsoleApp\bin\Debug\net7.0\TaskInstanceConsoleApp.runtimeconfig.json
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskInstanceConsoleApp\bin\Debug\net7.0\TaskInstanceConsoleApp.dll
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskInstanceConsoleApp\bin\Debug\net7.0\TaskInstanceConsoleApp.pdb
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskInstanceConsoleApp\obj\Debug\net7.0\TaskInstanceConsoleApp.csproj.AssemblyReference.cache
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskInstanceConsoleApp\obj\Debug\net7.0\TaskInstanceConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskInstanceConsoleApp\obj\Debug\net7.0\TaskInstanceConsoleApp.AssemblyInfoInputs.cache
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskInstanceConsoleApp\obj\Debug\net7.0\TaskInstanceConsoleApp.AssemblyInfo.cs
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskInstanceConsoleApp\obj\Debug\net7.0\TaskInstanceConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskInstanceConsoleApp\obj\Debug\net7.0\TaskInstanceConsoleApp.dll
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskInstanceConsoleApp\obj\Debug\net7.0\refint\TaskInstanceConsoleApp.dll
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskInstanceConsoleApp\obj\Debug\net7.0\TaskInstanceConsoleApp.pdb
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskInstanceConsoleApp\obj\Debug\net7.0\TaskInstanceConsoleApp.genruntimeconfig.cache
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskInstanceConsoleApp\obj\Debug\net7.0\ref\TaskInstanceConsoleApp.dll
