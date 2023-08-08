@@ -1,0 +1,11 @@
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskThreadApp\obj\Debug\TaskThreadApp.csproj.AssemblyReference.cache
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskThreadApp\obj\Debug\TaskThreadApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskThreadApp\obj\Debug\TaskThreadApp.Form1.resources
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskThreadApp\obj\Debug\TaskThreadApp.Properties.Resources.resources
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskThreadApp\obj\Debug\TaskThreadApp.csproj.GenerateResource.cache
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskThreadApp\obj\Debug\TaskThreadApp.csproj.CoreCompileInputs.cache
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskThreadApp\bin\Debug\TaskThreadApp.exe.config
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskThreadApp\bin\Debug\TaskThreadApp.exe
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskThreadApp\bin\Debug\TaskThreadApp.pdb
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskThreadApp\obj\Debug\TaskThreadApp.exe
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskThreadApp\obj\Debug\TaskThreadApp.pdb

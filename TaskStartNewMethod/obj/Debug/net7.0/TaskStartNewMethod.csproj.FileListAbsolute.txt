@@ -1,0 +1,16 @@
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskStartNewMethod\bin\Debug\net7.0\TaskStartNewMethod.exe
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskStartNewMethod\bin\Debug\net7.0\TaskStartNewMethod.deps.json
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskStartNewMethod\bin\Debug\net7.0\TaskStartNewMethod.runtimeconfig.json
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskStartNewMethod\bin\Debug\net7.0\TaskStartNewMethod.dll
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskStartNewMethod\bin\Debug\net7.0\TaskStartNewMethod.pdb
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskStartNewMethod\obj\Debug\net7.0\TaskStartNewMethod.csproj.AssemblyReference.cache
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskStartNewMethod\obj\Debug\net7.0\TaskStartNewMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskStartNewMethod\obj\Debug\net7.0\TaskStartNewMethod.AssemblyInfoInputs.cache
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskStartNewMethod\obj\Debug\net7.0\TaskStartNewMethod.AssemblyInfo.cs
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskStartNewMethod\obj\Debug\net7.0\TaskStartNewMethod.csproj.CoreCompileInputs.cache
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskStartNewMethod\obj\Debug\net7.0\TaskStartNewMethod.dll
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskStartNewMethod\obj\Debug\net7.0\refint\TaskStartNewMethod.dll
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskStartNewMethod\obj\Debug\net7.0\TaskStartNewMethod.pdb
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskStartNewMethod\obj\Debug\net7.0\TaskStartNewMethod.genruntimeconfig.cache
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskStartNewMethod\obj\Debug\net7.0\ref\TaskStartNewMethod.dll
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskStartNewMethod\bin\Debug\net7.0\File.txt
