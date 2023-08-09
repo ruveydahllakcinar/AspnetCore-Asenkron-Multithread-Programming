@@ -1,0 +1,15 @@
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskParallelLib-ForApp\bin\Debug\net7.0\TaskParallelLib-ForApp.exe
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskParallelLib-ForApp\bin\Debug\net7.0\TaskParallelLib-ForApp.deps.json
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskParallelLib-ForApp\bin\Debug\net7.0\TaskParallelLib-ForApp.runtimeconfig.json
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskParallelLib-ForApp\bin\Debug\net7.0\TaskParallelLib-ForApp.dll
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskParallelLib-ForApp\bin\Debug\net7.0\TaskParallelLib-ForApp.pdb
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskParallelLib-ForApp\obj\Debug\net7.0\TaskParallelLib-ForApp.csproj.AssemblyReference.cache
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskParallelLib-ForApp\obj\Debug\net7.0\TaskParallelLib-ForApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskParallelLib-ForApp\obj\Debug\net7.0\TaskParallelLib-ForApp.AssemblyInfoInputs.cache
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskParallelLib-ForApp\obj\Debug\net7.0\TaskParallelLib-ForApp.AssemblyInfo.cs
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskParallelLib-ForApp\obj\Debug\net7.0\TaskParallelLib-ForApp.csproj.CoreCompileInputs.cache
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskParallelLib-ForApp\obj\Debug\net7.0\TaskParallelLib-ForApp.dll
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskParallelLib-ForApp\obj\Debug\net7.0\refint\TaskParallelLib-ForApp.dll
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskParallelLib-ForApp\obj\Debug\net7.0\TaskParallelLib-ForApp.pdb
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskParallelLib-ForApp\obj\Debug\net7.0\TaskParallelLib-ForApp.genruntimeconfig.cache
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TaskParallelLib-ForApp\obj\Debug\net7.0\ref\TaskParallelLib-ForApp.dll

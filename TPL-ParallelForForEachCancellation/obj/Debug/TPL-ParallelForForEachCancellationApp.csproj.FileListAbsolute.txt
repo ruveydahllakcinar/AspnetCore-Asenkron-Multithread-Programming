@@ -1,0 +1,11 @@
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TPL-ParallelForForEachCancellation\bin\Debug\TPL-ParallelForForEachCancellation.exe.config
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TPL-ParallelForForEachCancellation\bin\Debug\TPL-ParallelForForEachCancellation.exe
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TPL-ParallelForForEachCancellation\bin\Debug\TPL-ParallelForForEachCancellation.pdb
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TPL-ParallelForForEachCancellation\obj\Debug\TPL-ParallelForForEachCancellationApp.csproj.AssemblyReference.cache
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TPL-ParallelForForEachCancellation\obj\Debug\TPL-ParallelForForEachCancellationApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TPL-ParallelForForEachCancellation\obj\Debug\TPL_ParallelForForEachCancellation.Form1.resources
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TPL-ParallelForForEachCancellation\obj\Debug\TPL_ParallelForForEachCancellation.Properties.Resources.resources
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TPL-ParallelForForEachCancellation\obj\Debug\TPL-ParallelForForEachCancellationApp.csproj.GenerateResource.cache
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TPL-ParallelForForEachCancellation\obj\Debug\TPL-ParallelForForEachCancellationApp.csproj.CoreCompileInputs.cache
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TPL-ParallelForForEachCancellation\obj\Debug\TPL-ParallelForForEachCancellation.exe
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\TPL-ParallelForForEachCancellation\obj\Debug\TPL-ParallelForForEachCancellation.pdb

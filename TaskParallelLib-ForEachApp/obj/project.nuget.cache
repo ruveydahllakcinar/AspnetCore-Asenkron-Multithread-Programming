@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZKCJag5LJESveedytNx5hQ9EdlV8KfZ/gwyhdkEqS6MDM4qqIfk81GM3/HUkUsana/mm1loB0YG5o8Bw3DdAHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rhakc\\source\\repos\\AspnetCore-Asenkron-Multithread-Programming\\TaskParallelLib-ForEachApp\\TaskParallelLib-ForEachApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rhakc\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\rhakc\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -13,9 +13,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskStartNewMethod", "..\Ta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskCancellationApp", "..\TaskCancellationApp\TaskCancellationApp.csproj", "{87C9A765-6FE7-4A9C-B53F-E44C58C812B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskWebApp.API", "..\TaskWebApp.API\TaskWebApp.API.csproj", "{8328F23F-A204-4260-9CA4-CE9591D46811}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskWebApp.API", "..\TaskWebApp.API\TaskWebApp.API.csproj", "{8328F23F-A204-4260-9CA4-CE9591D46811}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskInstanceConsoleApp", "..\TaskInstanceConsoleApp\TaskInstanceConsoleApp.csproj", "{C239FE4E-5D7C-4D78-B21D-15AE4C5F085C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskInstanceConsoleApp", "..\TaskInstanceConsoleApp\TaskInstanceConsoleApp.csproj", "{C239FE4E-5D7C-4D78-B21D-15AE4C5F085C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskParallelLib-ForEachApp", "..\TaskParallelLib-ForEachApp\TaskParallelLib-ForEachApp.csproj", "{DB7DE136-DDD3-4BD0-B19F-8D63744E5BEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskParallelLib-ForApp", "..\TaskParallelLib-ForApp\TaskParallelLib-ForApp.csproj", "{9D16E42A-1B16-41AF-8EE2-6738B7E1EF2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPL-ParallelForForEachCancellationApp", "..\TPL-ParallelForForEachCancellation\TPL-ParallelForForEachCancellationApp.csproj", "{74253C73-651C-4FFB-9591-244A34FBCEF5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +57,18 @@ Global
 		{C239FE4E-5D7C-4D78-B21D-15AE4C5F085C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C239FE4E-5D7C-4D78-B21D-15AE4C5F085C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C239FE4E-5D7C-4D78-B21D-15AE4C5F085C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB7DE136-DDD3-4BD0-B19F-8D63744E5BEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB7DE136-DDD3-4BD0-B19F-8D63744E5BEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB7DE136-DDD3-4BD0-B19F-8D63744E5BEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB7DE136-DDD3-4BD0-B19F-8D63744E5BEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D16E42A-1B16-41AF-8EE2-6738B7E1EF2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D16E42A-1B16-41AF-8EE2-6738B7E1EF2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D16E42A-1B16-41AF-8EE2-6738B7E1EF2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D16E42A-1B16-41AF-8EE2-6738B7E1EF2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74253C73-651C-4FFB-9591-244A34FBCEF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74253C73-651C-4FFB-9591-244A34FBCEF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74253C73-651C-4FFB-9591-244A34FBCEF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74253C73-651C-4FFB-9591-244A34FBCEF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
