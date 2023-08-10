@@ -1,0 +1,11 @@
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\PLINQFormApp\bin\Debug\PLINQFormApp.exe.config
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\PLINQFormApp\bin\Debug\PLINQFormApp.exe
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\PLINQFormApp\bin\Debug\PLINQFormApp.pdb
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\PLINQFormApp\obj\Debug\PLINQFormApp.csproj.AssemblyReference.cache
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\PLINQFormApp\obj\Debug\PLINQFormApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\PLINQFormApp\obj\Debug\PLINQFormApp.Form1.resources
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\PLINQFormApp\obj\Debug\PLINQFormApp.Properties.Resources.resources
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\PLINQFormApp\obj\Debug\PLINQFormApp.csproj.GenerateResource.cache
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\PLINQFormApp\obj\Debug\PLINQFormApp.csproj.CoreCompileInputs.cache
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\PLINQFormApp\obj\Debug\PLINQFormApp.exe
+C:\Users\rhakc\source\repos\AspnetCore-Asenkron-Multithread-Programming\PLINQFormApp\obj\Debug\PLINQFormApp.pdb

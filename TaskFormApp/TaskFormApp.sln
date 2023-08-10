@@ -19,9 +19,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskInstanceConsoleApp", ".
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskParallelLib-ForEachApp", "..\TaskParallelLib-ForEachApp\TaskParallelLib-ForEachApp.csproj", "{DB7DE136-DDD3-4BD0-B19F-8D63744E5BEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskParallelLib-ForApp", "..\TaskParallelLib-ForApp\TaskParallelLib-ForApp.csproj", "{9D16E42A-1B16-41AF-8EE2-6738B7E1EF2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskParallelLib-ForApp", "..\TaskParallelLib-ForApp\TaskParallelLib-ForApp.csproj", "{9D16E42A-1B16-41AF-8EE2-6738B7E1EF2B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPL-ParallelForForEachCancellationApp", "..\TPL-ParallelForForEachCancellation\TPL-ParallelForForEachCancellationApp.csproj", "{74253C73-651C-4FFB-9591-244A34FBCEF5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PLINQApp", "..\PLINQApp\PLINQApp.csproj", "{3C837C56-4B82-4A7B-9998-E43AF1019B25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PLINQFormApp", "..\PLINQFormApp\PLINQFormApp.csproj", "{B70FE8D5-2EF8-404E-BF10-669558F42E65}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +73,14 @@ Global
 		{74253C73-651C-4FFB-9591-244A34FBCEF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74253C73-651C-4FFB-9591-244A34FBCEF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74253C73-651C-4FFB-9591-244A34FBCEF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C837C56-4B82-4A7B-9998-E43AF1019B25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C837C56-4B82-4A7B-9998-E43AF1019B25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C837C56-4B82-4A7B-9998-E43AF1019B25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C837C56-4B82-4A7B-9998-E43AF1019B25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B70FE8D5-2EF8-404E-BF10-669558F42E65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B70FE8D5-2EF8-404E-BF10-669558F42E65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B70FE8D5-2EF8-404E-BF10-669558F42E65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B70FE8D5-2EF8-404E-BF10-669558F42E65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
